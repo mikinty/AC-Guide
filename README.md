@@ -11,6 +11,14 @@ discuss several training-like techniques to build skills that are useful
 for learning technical classes more effectively and compile links to 
 materials that can be useful during study.
 
+## Contents
+
+- [Fundamentals](./chapters/fundamentals.md)
+- [Classes](./chapters/class.md)
+- [Exams](./chapters/exams.md)
+- [More Efficient Programming](./chapters/programming.md)
+- [Finding Jobs](./chapters/jobs.md)
+
 ## Links
 
 - [CMU ECE/CS Guide](https://github.com/mikinty/CMU-ECE-CS-Guide)
