@@ -18,6 +18,7 @@ materials that can be useful during study.
 - [Exams](./chapters/exams.md)
 - [More Efficient Programming](./chapters/programming.md)
 - [Finding Jobs](./chapters/jobs.md)
+- [Sample Curriculum](./chapters/curriculum.md)
 
 ## Links
 
