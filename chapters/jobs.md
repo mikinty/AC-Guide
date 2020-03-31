@@ -24,7 +24,7 @@ efficiently track the progress of all your job applications.
 The table below is an example of a spreadsheet template you can use to keep track of your applications:
 
 | Company  | Applied  | 1 | 2 | 3 | Result| Salary | Bonus | RSU | Travel |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 | CompanyX  | SWE, www.compx.io  | Comments | ... | ... | Offer/No Offer | 100k | 10k | 60k/4 yrs| 10k |
 | CompanyY | SWE, \<Link\>  | ... | ... | ... | Offer/No Offer | 90k | 15k | 80k/4 yrs| 5k |
 
