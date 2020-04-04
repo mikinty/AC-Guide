@@ -72,7 +72,7 @@ some behavioral and application questions may overlap.
 - What inspires you to connect, empower, and create?
 - What do you think is the next big thing in tech?
 
-###Leetcode Problems
+### Leetcode Problems
 
 Sort all the leetcode problems you have done according to topic/company tag/difficultiy, especially the problems that you cannot solve on your own. Go over every topics before your interview, pay more attention to the problems that was tagged the company you are interviewing with. With huge firms like the FLAG, this might not be super useful, but another thing you can always do is to search more recent interview reflctions online written by other interviewees. Some good sites for this include https://www.glassdoor.com/index.html , https://www.quora.com .
 
