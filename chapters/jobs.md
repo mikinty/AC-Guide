@@ -13,6 +13,7 @@ You should have the following tools to make your job search more efficient:
 
 - [Job Application Tracker](#job-application-tracker)
 - [Common Questions](#common-questions)
+- [Leetcode Problems](#leetcode-problems)
 - [Interview Reflections](#interview-reflections)
 - [Free Times](#free-times)
 
@@ -74,7 +75,16 @@ some behavioral and application questions may overlap.
 
 ### Leetcode Problems
 
-Sort all the leetcode problems you have done according to topic/company tag/difficultiy, especially the problems that you cannot solve on your own. Go over every topics before your interview, pay more attention to the problems that was tagged the company you are interviewing with. With huge firms like the FLAG, this might not be super useful, but another thing you can always do is to search more recent interview reflctions online written by other interviewees. Some good sites for this include https://www.glassdoor.com/index.html , https://www.quora.com .
+Sort all the leetcode problems you have done according to topic/company tag/difficulty, 
+especially the problems that you cannot solve on your own. Go over every topics before your 
+interview, pay more attention to the problems that were tagged the company you are interviewing with. 
+With huge firms like the FLAG, this might not be super useful, but another thing you can 
+always do is to search more recent interview reflections online written by other interviewees.
+
+Some good sites for this include:
+
+- <https://www.glassdoor.com/index.html>
+- <https://www.quora.com>
 
 ### Interview Reflections
 
@@ -114,7 +124,9 @@ very free, which means you are ok taking interviews in your 8 PM time zone, whic
 ## Resources for Different Career Paths
 
 - General
-  - [Link](https://github.com/cassidoo/getting-a-gig)
+  - [Getting a gig](https://github.com/cassidoo/getting-a-gig)
+  - [Compensation from Companies](https://www.levels.fyi/)
+  - [Internship Links](https://intern.supply/)
 - Software
   - [Frontend Engineer Questions](https://github.com/yangshun/front-end-interview-handbook)
 - Hardware
