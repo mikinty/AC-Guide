@@ -15,15 +15,27 @@ hard and requires talent.
 Below, we illustrate some ways to do well in your classes, with tools to
 help you keep on track.
 
+Also, we have put together a [guide for most of the classes in the ECE/CS department at CMU](https://github.com/mikinty/CMU-ECE-CS-Guide).
+
 ## Pre-studying a class
 
-Skim over lecture slides
+Have you thought to yourself *I'm so screwed for this class next sem*...
+Fortunately, you can study beforehand -- while this sounds kind of cheap,
+all you're doing is learning the material beforehand. No harm done to anyone. If you're curious, some people might seem like they know everything
+in a class, but in reality they just learned it before on their own or in
+another class.
 
-Look/do the homework
+How much you want to do before a class is up to you, but some strategies to consider:
 
-Read the textbook
+- Skim over lecture slides
 
-Work on skills that will help you ace the class.
+- Look over/do the homework
+
+- Read the textbook
+
+- Work on skills that will help you ace the class. E.g. if you have a class about physics and you know there will be a lot of integrals, it might be a good idea to brush up on integral calculus.
+
+If you find yourself not able to do everything you wanted before the class starts, that's ok! You can still study ahead while you take the class as well.
 
 ## Grade Tracker
 
