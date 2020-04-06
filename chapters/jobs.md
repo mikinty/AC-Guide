@@ -130,8 +130,6 @@ very free, which means you are ok taking interviews in your 8 PM time zone, whic
 - Software
   - [Frontend Engineer Questions](https://github.com/yangshun/front-end-interview-handbook)
 - Hardware
-  - [Guide I wrote](https://github.com/mikinty/Hardware-Engineer-Interview-Questions)
+  - [Hardware Interview Questions](https://github.com/mikinty/Hardware-Engineer-Interview-Questions)
 - Trading
-  - [Guide I wrote](https://github.com/mikinty/Trading-Interview-Questions)
-  
-  
+  - [Trading Interview Questions and Tutorial](https://github.com/mikinty/Trading-Interview-Questions)
