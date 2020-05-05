@@ -12,4 +12,6 @@ Find as much stuff to study as possible
 
 Do exams under pressure
 
+## Survival Kit
+
 ## Reflections
