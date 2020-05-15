@@ -12,7 +12,7 @@ With that in mind, let's go over some ways to prepare for your big academic days
 As with any undertaking, you should have some sort of idea of what you're going to
 do in order to prepare for your exam. The main purpose of a study plan is to
 block out time so you can give yourself schedule space to focus on studying
-for your exam, instead of getting distracted and drifting off into doing other things. Something I like to do is create a "master study plan," which is a study plan that I would do if I had infinite amount of time to study. The idea is very similar to [the section below about study materials](##potpurri-of-materials), where you want to give yourself an idea of all that is possible to study. An example of such a plan may look something like
+for your exam, instead of getting distracted and drifting off into doing other things. Something I like to do is create a "master study plan," which is a study plan that I would do if I had infinite amount of time to study. The idea is very similar to [the section below about study materials](#potpurri-of-materials), where you want to give yourself an idea of all that is possible to study. An example of such a plan may look something like
 
 - Read all textbook chapters relating to the exam
 - Read all lecture notes
