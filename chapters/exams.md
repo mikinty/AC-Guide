@@ -86,3 +86,7 @@ out some of the things I bring:
 - Hoodie, extra shirt (in case legs get cold), headphones (if it is loud, sometimes not permitted to wear in exams but I got to use it once when there was construction outside)
 
 ## Reflections
+
+After your exam is taken, you should do a reflection. The idea is that you can identify your strengths and weaknesses, and also develop strategies that you can use on future exams. For example, if you found out that you did very poorly on assembly questions on a systems exam, then you should practice reading assembly, and then you can do better on the next exam.
+
+You may benefit from keeping all your exam reflections in one place, so you can review certain exams you took if needed.
